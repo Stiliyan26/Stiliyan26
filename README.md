@@ -1,10 +1,6 @@
 <h3 align="center"><strong>A passionate full-stack engineer from Bulgaria</strong></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stiliyan26" alt="stiliyan26" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **stiliyan.nikolov02@gmail.com**
 
