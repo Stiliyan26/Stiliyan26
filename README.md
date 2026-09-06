@@ -14,7 +14,7 @@
 
 ---
 
-I build full-stack systems in **TypeScript** and **Java**, and I've been doing it professionally since 2023 — Latona, HedgeServ, and client work in between.
+I build full-stack systems in **TypeScript** and **Java**, and I've been doing it professionally since 2023 — jBoxers, Latona, HedgeServ, and client work after that.
 
 Most of what I care about sits in the seams: how services talk without losing messages, what happens on the retry, and how you diagnose a Node process that got OOM-killed with no stack trace. When a project needs an Angular or React frontend, I write those too.
 
