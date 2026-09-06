@@ -1,6 +1,6 @@
 <h1 align="center">Stiliyan Nikolov</h1>
 <p align="center">
-  <b>Software Engineer</b> &nbsp;·&nbsp; TypeScript &amp; Java &nbsp;·&nbsp; Sofia, Bulgaria 🇧🇬
+  <b>Software Engineer</b> &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Sofia, Bulgaria 🇧🇬
 </p>
 
 <p align="center">
@@ -35,13 +35,13 @@ Most of what I care about sits in the seams: how services talk without losing me
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="38" height="38" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="38" height="38" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="38" height="38" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="38" height="38" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="38" height="38" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="38" height="38" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="38" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" title="ASP.NET Core" width="38" height="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" title="ASP.NET Core" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/neon.svg" alt="Neon" title="Neon" width="38" height="38" />
 </p>
 
 <br>
@@ -53,6 +53,8 @@ Most of what I care about sits in the seams: how services talk without losing me
 **Distributed real-time systems.** My TU-Sofia thesis is a [7-microservice chat platform](https://github.com/Stiliyan26/Distributed-Chat-System) — NestJS, Kafka with per-channel partition ordering, Redis Pub/Sub fan-out, WebSockets, and atomic Lua scripts for multi-device presence. The interesting problems were the ones tutorials skip: user-disconnect races, idempotent writes, and an API gateway with circuit breaker and bulkhead isolation.
 
 **Production debugging.** At HedgeServ I shipped heap snapshots for OOM-killed Node pods — PVC + S3 across 5 Kubernetes environments — so post-crash memory diagnosis took minutes instead of guesswork, and an atomic Mongo cascade delete across 10K+ dashboards so navigation, groups, and viz overrides couldn't drift out of sync.
+
+**AI in practice.** I orchestrate coding agents day to day — taking Jira tickets through to implementation, then reviewing the diffs with the same tooling. Agents against real tickets and code review, not prompts in a chat window.
 
 <br>
 
